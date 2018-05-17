@@ -1,0 +1,5 @@
+library("shiny")
+HTML("<p>hello</p>")
+tags$p()
+HTML("<link></link>")
+tags$link(ref = "stylesheet", type = "text/css", href = "style.css")

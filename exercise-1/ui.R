@@ -33,4 +33,5 @@ shinyUI(navbarPage(
   )
 
   # Create a tabPanel to show your scatter plot
+  tabPanel()
 ))
